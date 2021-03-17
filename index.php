@@ -11,7 +11,7 @@ while($cont_w < 10) {
     echo $cont_w++ . "\n";
 }
 
-echo "WHILE\n";
+echo "DO...WHILE\n";
 $cont_d = 0;
 do {
     echo $cont_d++ . "\n";
